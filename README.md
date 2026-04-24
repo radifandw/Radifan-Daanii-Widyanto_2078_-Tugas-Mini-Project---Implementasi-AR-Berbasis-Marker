@@ -88,4 +88,5 @@ AnatomyAR/
 
 ## Gambar Marker
 
-<img width="960" height="720" alt="Blausen_0592_KidneyAnatomy_01" src="https://github.com/user-attachments/assets/548db17a-4eac-485f-8ad5-8da61ee3fca7" />
+<img width="960" height="720" alt="Blausen_0592_KidneyAnatomy_01" src="https://github.com/user-attachments/assets/16b95726-5a0b-44f9-af32-3f75e5b47580" />
+
