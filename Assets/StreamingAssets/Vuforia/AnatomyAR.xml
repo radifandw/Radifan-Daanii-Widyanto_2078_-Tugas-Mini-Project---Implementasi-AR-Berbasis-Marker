@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="resized-image-promo_-_2022-10-14t170529" size="0.100000 0.090000" />
+    <ImageTarget name="kidney_marker" size="0.100000 0.075000" />
+  </Tracking>
+</QCARConfig>
